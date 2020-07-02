@@ -1,2 +1,1 @@
-# gostack-fundamentos-reactjs
-Desafio 07: GoFinances Web
+## Desafio 07: GoFinances Web
